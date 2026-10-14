@@ -2,10 +2,10 @@
 
 Currently journeying through the lands of:
 
-🧠 C# and .NET  
+#🧠 C# and .NET  
 🐧 Linux & WSL  
-🌐 Web Development  
-⚙️ Software Engineering
+#🌐 Web Development  
+#⚙️ Software Engineering
 
 My quest is simple:
 
