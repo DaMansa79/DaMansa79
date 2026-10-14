@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/6685ff79-6363-4df7-a2bf-290683d29944" />
+
 Currently journeying through the lands of:
 
 🧠 C# and .NET  
