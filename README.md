@@ -58,48 +58,12 @@ git push origin main
 
 🦅 Contact
 
-If you seek counsel from Rivendell:
+If you seek counsel from The Shire:
 
-GitHub: @yourname
-LinkedIn: yourprofile
+GitHub: @DaMansa79
+LinkedIn: 
 
 ---
-
-## Option 2: RPG-style GitHub Profile
-
-```markdown
-# 🧙 Character Sheet
-
-Name: Andreas Neuwirth
-Class: Application Developer
-Race: Human
-Level: Apprentice
-
-HP: ██████████ 100%
-
-Mana:
-- Coffee ☕ +50
-- Documentation 📚 +30
-- Sleep 😴 (rare treasure)
-
-Skills:
-- Linux ⭐⭐⭐⭐☆
-- C# ⭐⭐⭐⭐☆
-- Problem Solving ⭐⭐⭐⭐⭐
-- Debugging Balrogs ⭐⭐⭐⭐⭐
-
-Current Main Quest:
-➡ Become a professional software developer
-
-Side Quests:
-☐ Master Docker
-☐ Build impressive portfolio projects
-☐ Contribute to Open Source
-☐ Defeat production bugs
-
-Option 3: LOTR Contribution Graph Theme
-
-You can reinterpret your GitHub activity:
 
 ## 🗺️ Journey Through Middle-earth
 
