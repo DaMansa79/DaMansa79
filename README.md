@@ -49,12 +49,15 @@ YOUR_STATS_BADGE
 
 ---
 
-## 💍 One Repository To Rule Them All
+🕯️ The Ring Verse of Development
 
-```bash
-git add .
-git commit -m "The fellowship continues"
-git push origin main
+One Commit to rule them all,
+
+One Branch to find them,
+
+One Merge to bring them all,
+
+And in Production deploy them.
 
 🦅 Contact
 
@@ -89,7 +92,7 @@ Create a dynamic section:
 Fellowship Status Report
 
 Ring Bearer: Andreas ✅
-Current Location: Rivendell
-Enemies Defeated: 142 bugs
+Current Location: The Shire
+Enemies Defeated: 1 bug
 Active Quest: Building awesome software
 Companion: Linux
