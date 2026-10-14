@@ -13,7 +13,7 @@ Destroy bugs before they reach production.
 
 ## 🗺️ Current Journey
 
-🌱 Learning: Advanced Software Development
+🌱 Learning: The Basics
 
 🔨 Forging:
 - Personal Projects
@@ -24,7 +24,7 @@ Destroy bugs before they reach production.
 - The Lord of the Rings
 - Technical Documentation
 - Stack Overflow scrolls
-
+  
 ---
 
 ## 🏰 Languages & Tools
