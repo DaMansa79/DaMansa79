@@ -2,10 +2,12 @@
 
 Currently journeying through the lands of:
 
-#🧠 C# and .NET  
-🐧 Linux & WSL  
-#🌐 Web Development  
-#⚙️ Software Engineering
+🐧 Linux & WSL 
+<!--
+🌐 Web Development 
+🧠 C# and .NET
+⚙️ Software Engineering
+-->
 
 My quest is simple:
 
@@ -32,23 +34,25 @@ Destroy bugs before they reach production.
 ## 🏰 Languages & Tools
 
 ### The Fellowship
-
+<!--
 ⚔️ C#
 🛡️ Java
 🌲 JavaScript
 🔥 Git
-🐧 Linux
 🌐 HTML/CSS
 🗄️ SQL
+-->
+🐧 Linux
+
 
 ---
 
 ## 📜 Stats
 
 "The number of commits is small, but there is hope yet."
-
+<!--
 YOUR_STATS_BADGE
-
+-->
 ---
 
 🕯️ The Ring Verse of Development
